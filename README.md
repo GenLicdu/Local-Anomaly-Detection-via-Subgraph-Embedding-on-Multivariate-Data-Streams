@@ -12,6 +12,7 @@ Born-Univ. : https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neur
 Bern-Bac: https://www.upf.edu/web/ntsa/downloads/-/asset_publisher/xvT6E4pczrBw/content/2012-nonrandomness-nonlinear-dependence-and-nonstationarity-of-electroencephalographic-recordings-from-epilepsy-patients
 
 Industrial datasets:
+
 SWaT:https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat
 
 SMD: https://github.com/NetManAIOps/OmniAnomaly/tree/master/ServerMachineDataset
